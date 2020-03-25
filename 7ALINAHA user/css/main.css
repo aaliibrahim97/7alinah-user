@@ -758,4 +758,72 @@ footer .wrap-footer li:before {
   -ms-box-shadow: 0 6px 6px #555;
   font-weight: bold;
 }
+
+/*===================المناهح ======================*/
+.Curricula h1 {
+  position: relative;
+  padding-bottom: 20px;
+}
+
+.Curricula h1 a {
+  color: #594C42;
+}
+
+.Curricula .wrap-curricula {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.Curricula .wrap-curricula h3 {
+  position: relative;
+  color: #f27655;
+  font-weight: bold;
+}
+
+.Curricula .wrap-curricula img {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.Curricula .wrap-curricula p {
+  padding: 0 20px;
+}
+
+.Curricula h1:before {
+  position: absolute;
+  content: "";
+  height: 3px;
+  width: 140px;
+  right: 0;
+  bottom: 0;
+  background-color: #f27655;
+}
+
+.Lectures {
+  background-image: url("../images/Group413.jpg");
+  height: 300px;
+  background-size: 100% 100%;
+}
+
+.Lectures h2 {
+  color: #f27655;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+.Lectures button {
+  background-color: #f27655;
+  color: #fff;
+  padding: 7px 50px;
+  font-size: 40px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  box-shadow: 0 6px 6px #555;
+  -webkit-box-shadow: 0 6px 6px #555;
+  -o-box-shadow: 0 6px 6px #555;
+  -moz-box-shadow: 0 6px 6px #555;
+  -ms-box-shadow: 0 6px 6px #555;
+  font-weight: bold;
+  margin-top: 70px;
+}
 /*# sourceMappingURL=main.css.map */
